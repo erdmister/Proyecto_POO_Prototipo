@@ -1,6 +1,8 @@
+package src.SistemaAbarrotes.vista;
+
 import javax.swing.*; // Para poder usar GUI
-import java.awt.*; // Para colores, fuentes 
-import java.awt.event.*; // Maneja las interacciones del usuario 
+import java.awt.*; // Para colores, fuentes
+
 
 public class SistemaAbarrotes extends JFrame{
 
