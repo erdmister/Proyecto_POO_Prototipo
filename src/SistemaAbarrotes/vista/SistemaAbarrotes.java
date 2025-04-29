@@ -1,3 +1,4 @@
+// Comprobacion 
 package src.SistemaAbarrotes.vista;
 
 import javax.swing.*; // Para poder usar GUI
